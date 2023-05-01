@@ -19,7 +19,7 @@ The language uses only Latin letters as deinfed in BASIC §5. The exact way to p
 | SpeakIt | IPA (stressed) | IPA (not stressed) |
 | ------- | -------------- | ------------------ |
 | ae      | ​æ              | *​æ*                |
-| ie      | ​j​ə             | *​j​ə*               |
+| ie      | ​j​​ɘ             | j​​ə                 |
 | oe      | ​ø              | œ                  |
 | ue      | ​y              | ʉ                  |
 
@@ -88,15 +88,17 @@ If a vowel is repeated, it is spoken long. (​ː)
 | wr      | ​ɻ   |
 | ts      | ​t͡s  |
 | tsh     | ​t͡ʃ, ​t̠͡ɕ, ​ʈ͡ʂ |
+| ps      | ​p͡s |
+| psh     | ​p͡ʃ, p͡ɕ, p͡ʂ |
 
-## 3 Compound-Letters
+## 3 Stress
 
-### 3.1 Consonants
-
-| SpeakIt | IPA |
-| ------- | --- |
-| ps      | ps  |
-
-## 4 Stress
+### 3.1 Pre- and Suffixes
 
 The first vowel in a word is primarily stressed. If the word has a prefix, the prefix is primarily stressed. If the word has an suffix, the suffix has secundary stress.
+
+## 4 Syllable
+
+### 4.1 Syllable shift on i
+
+If a syllable ends with a consonaand the next starts with an j (i + Vowel), the consonant is shifted into the next syllable.
